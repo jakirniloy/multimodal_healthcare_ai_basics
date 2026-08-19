@@ -1,0 +1,101 @@
+patient_id,image,signal,text,age,target
+patient_001,images/patient_001.jpg,signals/patient_001.csv,Experiencing fatigue and mild chest pain,80,1
+patient_002,images/patient_002.jpg,signals/patient_002.csv,Patient has mild chest discomfort,40,1
+patient_003,images/patient_003.jpg,signals/patient_003.csv,Patient reports shortness of breath,45,1
+patient_004,images/patient_004.jpg,signals/patient_004.csv,Patient reports no symptoms and feels well,68,0
+patient_005,images/patient_005.jpg,signals/patient_005.csv,"No chest pain, no shortness of breath",35,0
+patient_006,images/patient_006.jpg,signals/patient_006.csv,"Routine checkup, patient appears healthy",38,0
+patient_007,images/patient_007.jpg,signals/patient_007.csv,"Regular visit, no abnormal symptoms noted",62,0
+patient_008,images/patient_008.jpg,signals/patient_008.csv,Patient feels dizzy and weak,34,1
+patient_009,images/patient_009.jpg,signals/patient_009.csv,"Patient feels fine, no pain reported",52,0
+patient_010,images/patient_010.jpg,signals/patient_010.csv,"No complaints, normal energy levels",28,0
+patient_011,images/patient_011.jpg,signals/patient_011.csv,Patient reports no symptoms and feels well,39,0
+patient_012,images/patient_012.jpg,signals/patient_012.csv,"Patient feels fine, no pain reported",36,0
+patient_013,images/patient_013.jpg,signals/patient_013.csv,Complains of chest pain and fatigue,78,1
+patient_014,images/patient_014.jpg,signals/patient_014.csv,"No complaints, normal energy levels",35,0
+patient_015,images/patient_015.jpg,signals/patient_015.csv,Patient has mild chest discomfort,52,1
+patient_016,images/patient_016.jpg,signals/patient_016.csv,"No complaints, normal energy levels",25,0
+patient_017,images/patient_017.jpg,signals/patient_017.csv,Patient feels dizzy and weak,23,1
+patient_018,images/patient_018.jpg,signals/patient_018.csv,Patient feels dizzy and weak,65,1
+patient_019,images/patient_019.jpg,signals/patient_019.csv,"No complaints, normal energy levels",30,0
+patient_020,images/patient_020.jpg,signals/patient_020.csv,Patient reports no symptoms and feels well,50,0
+patient_021,images/patient_021.jpg,signals/patient_021.csv,Patient has mild chest discomfort,22,1
+patient_022,images/patient_022.jpg,signals/patient_022.csv,Reports irregular heartbeat and tiredness,32,1
+patient_023,images/patient_023.jpg,signals/patient_023.csv,Patient is active and reports good health,64,0
+patient_024,images/patient_024.jpg,signals/patient_024.csv,"Patient sleeping well, no concerns raised",78,0
+patient_025,images/patient_025.jpg,signals/patient_025.csv,Patient has mild chest discomfort,59,1
+patient_026,images/patient_026.jpg,signals/patient_026.csv,"No chest pain, no shortness of breath",27,0
+patient_027,images/patient_027.jpg,signals/patient_027.csv,"Routine checkup, patient appears healthy",62,0
+patient_028,images/patient_028.jpg,signals/patient_028.csv,Patient reports shortness of breath,56,1
+patient_029,images/patient_029.jpg,signals/patient_029.csv,"No complaints, normal energy levels",33,0
+patient_030,images/patient_030.jpg,signals/patient_030.csv,Experiencing fatigue and mild chest pain,57,1
+patient_031,images/patient_031.jpg,signals/patient_031.csv,Patient is active and reports good health,71,0
+patient_032,images/patient_032.jpg,signals/patient_032.csv,"No chest pain, no shortness of breath",66,0
+patient_033,images/patient_033.jpg,signals/patient_033.csv,Experiencing fatigue and mild chest pain,79,1
+patient_034,images/patient_034.jpg,signals/patient_034.csv,"Patient feels fine, no pain reported",62,0
+patient_035,images/patient_035.jpg,signals/patient_035.csv,Patient has persistent chest tightness,32,1
+patient_036,images/patient_036.jpg,signals/patient_036.csv,"Routine checkup, patient appears healthy",22,0
+patient_037,images/patient_037.jpg,signals/patient_037.csv,Patient has mild chest discomfort,69,1
+patient_038,images/patient_038.jpg,signals/patient_038.csv,Reports irregular heartbeat and tiredness,41,1
+patient_039,images/patient_039.jpg,signals/patient_039.csv,Patient is active and reports good health,57,0
+patient_040,images/patient_040.jpg,signals/patient_040.csv,"Routine checkup, patient appears healthy",35,0
+patient_041,images/patient_041.jpg,signals/patient_041.csv,"Patient sleeping well, no concerns raised",59,0
+patient_042,images/patient_042.jpg,signals/patient_042.csv,"No chest pain, no shortness of breath",24,0
+patient_043,images/patient_043.jpg,signals/patient_043.csv,"No chest pain, no shortness of breath",72,0
+patient_044,images/patient_044.jpg,signals/patient_044.csv,Complains of chest pain and fatigue,68,1
+patient_045,images/patient_045.jpg,signals/patient_045.csv,"Regular visit, no abnormal symptoms noted",68,0
+patient_046,images/patient_046.jpg,signals/patient_046.csv,"Patient sleeping well, no concerns raised",41,0
+patient_047,images/patient_047.jpg,signals/patient_047.csv,Reports irregular heartbeat and tiredness,59,1
+patient_048,images/patient_048.jpg,signals/patient_048.csv,"Regular visit, no abnormal symptoms noted",43,0
+patient_049,images/patient_049.jpg,signals/patient_049.csv,Patient has persistent chest tightness,42,1
+patient_050,images/patient_050.jpg,signals/patient_050.csv,"No chest pain, no shortness of breath",30,0
+patient_051,images/patient_051.jpg,signals/patient_051.csv,"Routine checkup, patient appears healthy",78,0
+patient_052,images/patient_052.jpg,signals/patient_052.csv,Patient reports no symptoms and feels well,59,0
+patient_053,images/patient_053.jpg,signals/patient_053.csv,Patient reports no symptoms and feels well,33,0
+patient_054,images/patient_054.jpg,signals/patient_054.csv,"No complaints, normal energy levels",26,0
+patient_055,images/patient_055.jpg,signals/patient_055.csv,Patient reports no symptoms and feels well,51,0
+patient_056,images/patient_056.jpg,signals/patient_056.csv,Patient feels dizzy and weak,54,1
+patient_057,images/patient_057.jpg,signals/patient_057.csv,"Regular visit, no abnormal symptoms noted",32,0
+patient_058,images/patient_058.jpg,signals/patient_058.csv,Patient reports palpitations and discomfort,46,1
+patient_059,images/patient_059.jpg,signals/patient_059.csv,"Patient sleeping well, no concerns raised",60,0
+patient_060,images/patient_060.jpg,signals/patient_060.csv,Complains of chest pain and fatigue,42,1
+patient_061,images/patient_061.jpg,signals/patient_061.csv,Patient reports palpitations and discomfort,49,1
+patient_062,images/patient_062.jpg,signals/patient_062.csv,Patient reports shortness of breath,79,1
+patient_063,images/patient_063.jpg,signals/patient_063.csv,Patient has persistent chest tightness,78,1
+patient_064,images/patient_064.jpg,signals/patient_064.csv,"Patient sleeping well, no concerns raised",21,0
+patient_065,images/patient_065.jpg,signals/patient_065.csv,Patient has persistent chest tightness,63,1
+patient_066,images/patient_066.jpg,signals/patient_066.csv,Patient reports palpitations and discomfort,66,1
+patient_067,images/patient_067.jpg,signals/patient_067.csv,Patient is active and reports good health,64,0
+patient_068,images/patient_068.jpg,signals/patient_068.csv,Reports irregular heartbeat and tiredness,44,1
+patient_069,images/patient_069.jpg,signals/patient_069.csv,Experiencing fatigue and mild chest pain,78,1
+patient_070,images/patient_070.jpg,signals/patient_070.csv,Reports irregular heartbeat and tiredness,58,1
+patient_071,images/patient_071.jpg,signals/patient_071.csv,Patient reports palpitations and discomfort,45,1
+patient_072,images/patient_072.jpg,signals/patient_072.csv,"Routine checkup, patient appears healthy",28,0
+patient_073,images/patient_073.jpg,signals/patient_073.csv,Patient reports palpitations and discomfort,67,1
+patient_074,images/patient_074.jpg,signals/patient_074.csv,"Routine checkup, patient appears healthy",61,0
+patient_075,images/patient_075.jpg,signals/patient_075.csv,Patient feels dizzy and weak,73,1
+patient_076,images/patient_076.jpg,signals/patient_076.csv,Patient feels dizzy and weak,44,1
+patient_077,images/patient_077.jpg,signals/patient_077.csv,Patient has mild chest discomfort,70,1
+patient_078,images/patient_078.jpg,signals/patient_078.csv,"No chest pain, no shortness of breath",63,0
+patient_079,images/patient_079.jpg,signals/patient_079.csv,Reports irregular heartbeat and tiredness,24,1
+patient_080,images/patient_080.jpg,signals/patient_080.csv,Complains of chest pain and fatigue,44,1
+patient_081,images/patient_081.jpg,signals/patient_081.csv,Reports irregular heartbeat and tiredness,23,1
+patient_082,images/patient_082.jpg,signals/patient_082.csv,Patient has mild chest discomfort,73,1
+patient_083,images/patient_083.jpg,signals/patient_083.csv,"No complaints, normal energy levels",26,0
+patient_084,images/patient_084.jpg,signals/patient_084.csv,"No chest pain, no shortness of breath",26,0
+patient_085,images/patient_085.jpg,signals/patient_085.csv,"Patient sleeping well, no concerns raised",58,0
+patient_086,images/patient_086.jpg,signals/patient_086.csv,Patient has persistent chest tightness,49,1
+patient_087,images/patient_087.jpg,signals/patient_087.csv,"Patient feels fine, no pain reported",67,0
+patient_088,images/patient_088.jpg,signals/patient_088.csv,"Patient feels fine, no pain reported",39,0
+patient_089,images/patient_089.jpg,signals/patient_089.csv,Patient is active and reports good health,69,0
+patient_090,images/patient_090.jpg,signals/patient_090.csv,Patient feels dizzy and weak,47,1
+patient_091,images/patient_091.jpg,signals/patient_091.csv,Patient has mild chest discomfort,56,1
+patient_092,images/patient_092.jpg,signals/patient_092.csv,Patient reports shortness of breath,22,1
+patient_093,images/patient_093.jpg,signals/patient_093.csv,Experiencing fatigue and mild chest pain,26,1
+patient_094,images/patient_094.jpg,signals/patient_094.csv,Patient feels dizzy and weak,40,1
+patient_095,images/patient_095.jpg,signals/patient_095.csv,"Patient sleeping well, no concerns raised",80,0
+patient_096,images/patient_096.jpg,signals/patient_096.csv,Complains of chest pain and fatigue,60,1
+patient_097,images/patient_097.jpg,signals/patient_097.csv,Patient has persistent chest tightness,51,1
+patient_098,images/patient_098.jpg,signals/patient_098.csv,"Routine checkup, patient appears healthy",20,0
+patient_099,images/patient_099.jpg,signals/patient_099.csv,Reports irregular heartbeat and tiredness,47,1
+patient_100,images/patient_100.jpg,signals/patient_100.csv,Complains of chest pain and fatigue,48,1
